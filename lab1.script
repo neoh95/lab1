@@ -1,0 +1,24 @@
+Script started on Sat, 11 Mar, 2017  8:01:18 PM
+]0;~
+[32muser@NCC-HP [33m~[0m
+$ whoami; pwd
+user
+/home/user
+]0;~
+[32muser@NCC-HP [33m~[0m
+$ git config -l
+user.email=neoh_89@hotmail.com
+user.name=neoh95
+]0;~
+[32muser@NCC-HP [33m~[0m
+$ got [K[K[Kit clone https://github.com/neoh95/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 3, done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+Checking connectivity... done.
+]0;~
+[32muser@NCC-HP [33m~[0m
+$ exit
+
+Script done on Sat, 11 Mar, 2017  8:02:01 PM

@@ -1,0 +1,13 @@
+Script started on Sat, 11 Mar, 2017  8:06:39 PM
+]0;~/lab1
+[32muser@NCC-HP [33m~/lab1[0m
+$ g++ LAB_1_B [K[K[K[K[K[K[K[K[K -o LAB_1_B LAB_1_B.cpp [K
+]0;~/lab1
+[32muser@NCC-HP [33m~/lab1[0m
+$ ./LAB_1_B.[K
+22
+22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1 ]0;~/lab1
+[32muser@NCC-HP [33m~/lab1[0m
+$ exit
+
+Script done on Sat, 11 Mar, 2017  8:07:18 PM
